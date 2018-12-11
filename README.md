@@ -1,2 +1,1 @@
-# Python-Machine-Learning
-Introduction to Machine Learning with Python
+NIKE VS ADIDAS shoe classifier
